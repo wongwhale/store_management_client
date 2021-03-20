@@ -1,3 +1,3 @@
-const WEB_URL = `http://localhost:5001`
+const WEB_URL = `https://store-management-server.herokuapp.com`
 
 export default WEB_URL
